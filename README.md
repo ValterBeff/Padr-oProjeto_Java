@@ -1,6 +1,6 @@
 # Projeto de Padrões de Projetos
 
-Este repositório contém o desenvolvimento de um projeto que aplica diversos padrões de projetos.
+Este repositório contém o desenvolvimento de um projeto que aplica diversos padrões de projetos. O projeto faz parte da disciplina de **Padrões de Projetos** da **Faculdade Estácio de Sá**.
 
 ## Resumo do Curso de Padrões de Projetos
 
